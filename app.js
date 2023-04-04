@@ -17,4 +17,4 @@ const fromYenToPound = (yen) => {
 console.log(sum(7, 3));
 
 /* TESTS */
-module.exports = { sum, frgitomEuroToDollar, fromDollarToYen, fromYenToPound }
+module.exports = { sum, fromEuroToDollar, fromDollarToYen, fromYenToPound }
